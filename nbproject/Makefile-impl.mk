@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=Romanos
+PROJECTNAME=Roman-number-converter
 
 # Active Configuration
 DEFAULTCONF=Debug

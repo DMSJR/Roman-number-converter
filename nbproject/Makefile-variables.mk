@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=Cygwin-Windows
 CND_ARTIFACT_DIR_Debug=dist/Debug/Cygwin-Windows
-CND_ARTIFACT_NAME_Debug=romanos
-CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin-Windows/romanos
+CND_ARTIFACT_NAME_Debug=roman-number-converter
+CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin-Windows/roman-number-converter
 CND_PACKAGE_DIR_Debug=dist/Debug/Cygwin-Windows/package
-CND_PACKAGE_NAME_Debug=romanos.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin-Windows/package/romanos.tar
+CND_PACKAGE_NAME_Debug=roman-number-converter.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin-Windows/package/roman-number-converter.tar
 # Release configuration
 CND_PLATFORM_Release=Cygwin-Windows
 CND_ARTIFACT_DIR_Release=dist/Release/Cygwin-Windows
-CND_ARTIFACT_NAME_Release=romanos
-CND_ARTIFACT_PATH_Release=dist/Release/Cygwin-Windows/romanos
+CND_ARTIFACT_NAME_Release=roman-number-converter
+CND_ARTIFACT_PATH_Release=dist/Release/Cygwin-Windows/roman-number-converter
 CND_PACKAGE_DIR_Release=dist/Release/Cygwin-Windows/package
-CND_PACKAGE_NAME_Release=romanos.tar
-CND_PACKAGE_PATH_Release=dist/Release/Cygwin-Windows/package/romanos.tar
+CND_PACKAGE_NAME_Release=roman-number-converter.tar
+CND_PACKAGE_PATH_Release=dist/Release/Cygwin-Windows/package/roman-number-converter.tar
 #
 # include compiler specific variables
 #
